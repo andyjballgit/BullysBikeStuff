@@ -42,6 +42,9 @@ https://www.etapecaledonia.co.uk/enter-now?utm_source=British%20Cycling&utm_medi
 * Stelvio - 6th June 
 https://www.granfondostelviosantini.com/?lang=en
 
+* Cambridge Pride Sportive - 6th June 
+https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling
+
 ### July
 * Etape du Tour - 4th July
 
