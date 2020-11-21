@@ -12,6 +12,11 @@ https://www.sportive.com/
 
 ## 2021 Events 
 
+
+### February 
+* Gran Canaria 14th/15th Feb
+http://www.granfondoguide.com/Events/Index/7327/epic-gran-canaria
+
 ### March 
 * Strade Bianchi Sportive (Pisa) 5th March 
 http://gfstradebianche.it/en/
@@ -20,6 +25,8 @@ http://gfstradebianche.it/en/
 * Burgess Hill - 28th March (Classics prep)
 https://www.facebook.com/events/road-ride-events/the-2021-burgess-hill-springtime-classic-cyclosportive/507914100089070/
 
+* Lisbon - 28th March
+http://www.granfondoguide.com/Events/Index/7306/gran-fondo-lisbon
 
 ### April
 
@@ -35,6 +42,10 @@ https://cyclinginflanders.cc/event/gent-wevelgem-cyclo
 * Mallorca 312 - 24th April 
 
 ### May
+
+* Turin - 2nd May 
+http://www.granfondoguide.com/Events/Index/5276/granfondo-torino
+
 * Etape Caledonaia Scotland - 16th May 
 https://www.etapecaledonia.co.uk/enter-now?utm_source=British%20Cycling&utm_medium=Solus&utm_campaign=British_Cycling&utm_content=Solus&dm_i=480K,YKPR,3K5LWA,4B61Q,1
 
