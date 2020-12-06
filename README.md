@@ -7,8 +7,10 @@ Euro Sportives
 http://www.granfondoguide.com/Events/SportiveCalendar?region=Europe&country=All&subregion=All&subsubregion=All
 
 Mainly UK
-
 https://www.sportive.com/
+
+Gravel Series
+https://www.ukcyclingevents.co.uk/events/
 
 ## 2021 Events 
 
