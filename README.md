@@ -72,6 +72,8 @@ https://tourdesstations.ch/en/
 * Alpenbrevet (Andermatt, Swiss) 4th Sept
 https://www.alpenbrevet.ch/en/for-participants/
 
+* World Champs, Leuven Belgium 19th-26th Sept
+https://www.flanders2021.com/en
 
 
 
