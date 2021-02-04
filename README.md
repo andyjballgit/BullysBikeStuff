@@ -61,7 +61,7 @@ https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/
 ### July
 - [x] Etape du Tour - 4th July
 
-- [x] Tour of Mendips - 17th July
+- [x] Tour of Mendips - 11th July
 
 * Iceland (Gravel) - 24th July 
 https://www.therift.bike/
