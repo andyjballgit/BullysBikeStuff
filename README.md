@@ -41,7 +41,7 @@ https://www.parisroubaixchallenge.com/en/
 * Ghent-Wevegelm ?
 https://cyclinginflanders.cc/event/gent-wevelgem-cyclo
 
-- [x] Mallorca 312 - 24th April 
+- [ ] Mallorca 312 - 24th April 
 
 ### May
 
@@ -59,9 +59,9 @@ https://www.granfondostelviosantini.com/?lang=en
 https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling
 
 ### July
-- [x] Etape du Tour - 4th July
+- [ ] Etape du Tour - 4th July
 
-- [x] Tour of Mendips - 11th July
+- [ ] Tour of Mendips - 11th July
 
 * Iceland (Gravel) - 24th July 
 https://www.therift.bike/
