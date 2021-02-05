@@ -70,6 +70,8 @@ https://www.therift.bike/
 * Verbier Swiss - 7th Aug 
 https://tourdesstations.ch/en/
 
+* Otzal Cycle Marathon Solden Austria - 29th Aug
+
 ### Sep
 * Alpenbrevet (Andermatt, Swiss) 4th Sept
 https://www.alpenbrevet.ch/en/for-participants/
