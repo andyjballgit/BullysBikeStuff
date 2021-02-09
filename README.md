@@ -14,15 +14,7 @@ https://www.ukcyclingevents.co.uk/events/
 
 ## 2021 Events 
 
-
-### February 
-* Gran Canaria 14th/15th Feb
-http://www.granfondoguide.com/Events/Index/7327/epic-gran-canaria
-
 ### March 
-* Strade Bianchi Sportive (Pisa) 5th March 
-http://gfstradebianche.it/en/
-
 
 * Burgess Hill - 28th March (Classics prep)
 https://www.facebook.com/events/road-ride-events/the-2021-burgess-hill-springtime-classic-cyclosportive/507914100089070/
@@ -32,7 +24,7 @@ http://www.granfondoguide.com/Events/Index/7306/gran-fondo-lisbon
 
 ### April
 
-* Flanders - 3rd April 
+* Flanders - 4th April 
 https://www.werideflanders.com/en/
 
 * Paris-Roubaix - 10th April 
@@ -70,14 +62,18 @@ https://www.therift.bike/
 * Verbier Swiss - 7th Aug 
 https://tourdesstations.ch/en/
 
-* Otzal Cycle Marathon Solden Austria - 29th Aug
-
 ### Sep
 * Alpenbrevet (Andermatt, Swiss) 4th Sept
 https://www.alpenbrevet.ch/en/for-participants/
 
+* Strade Bianchi Sportive (Pisa) - 12th Sept 
+http://gfstradebianche.it/en/
+
 * World Champs, Leuven Belgium 19th-26th Sept
 https://www.flanders2021.com/en
 
+## 2021
 
-
+### Aug
+* Otzal Cycle Marathon Solden Austria - 29th Aug
+https://www.oetztaler-radmarathon.com/home.html
