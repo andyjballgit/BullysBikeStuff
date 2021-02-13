@@ -12,6 +12,10 @@ https://www.sportive.com/
 Gravel Series
 https://www.ukcyclingevents.co.uk/events/
 
+
+Gran Fondo World Tour
+https://www.granfondoworldtour.com/races/
+
 ## 2021 Events 
 
 ### March 
