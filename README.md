@@ -76,7 +76,7 @@ http://gfstradebianche.it/en/
 * World Champs, Leuven Belgium 19th-26th Sept
 https://www.flanders2021.com/en
 
-## 2021
+## 2022
 
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
