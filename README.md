@@ -28,9 +28,6 @@ http://www.granfondoguide.com/Events/Index/7306/gran-fondo-lisbon
 
 ### April
 
-* Flanders - 4th April 
-https://www.werideflanders.com/en/
-
 * Paris-Roubaix - 10th April 
 https://www.parisroubaixchallenge.com/en/
 
@@ -72,6 +69,9 @@ https://www.alpenbrevet.ch/en/for-participants/
 
 * Strade Bianchi Sportive (Pisa) - 12th Sept 
 http://gfstradebianche.it/en/
+
+* Flanders - 18th September 
+https://www.werideflanders.com/en/
 
 * World Champs, Leuven Belgium 19th-26th Sept
 https://www.flanders2021.com/en
