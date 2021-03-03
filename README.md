@@ -18,7 +18,7 @@ https://www.ukcyclingevents.co.uk/events/
 Gran Fondo World Tour
 https://www.granfondoworldtour.com/races/
 
-## 2021 Events 
+## 2021 Long List 
 
 ### April
 
@@ -32,6 +32,9 @@ https://www.etapecaledonia.co.uk/enter-now?utm_source=British%20Cycling&utm_medi
 ### June
 * Stelvio - 6th June 
 https://www.granfondostelviosantini.com/?lang=en
+
+* Vatterunden - Sweeden - 315km max. 18th / 19th June 
+https://vatternrundan.se/vatternrundan/en/
 
 * London-Brighton-London - 19th June 
 https://sportivebreaks.com/uk-sportives/the-seaside-ride/
@@ -58,7 +61,7 @@ https://www.alpenbrevet.ch/en/for-participants/
 * Strade Bianchi Sportive (Pisa) - 12th Sept 
 http://gfstradebianche.it/en/
 
-* Flanders Sportive - 18th September 
+* Flanders Sportive - 18th September
 https://www.werideflanders.com/en/
 
 * World Champs, Leuven Belgium 19th-26th Sept
