@@ -1,8 +1,10 @@
 # BullysBikeStuff
 
+Last Updated : 03/03/2021 
+
 ![]( AndySaColobra4.JPG)
 
-## Links 
+## General Links 
 Euro Sportives 
 http://www.granfondoguide.com/Events/SportiveCalendar?region=Europe&country=All&subregion=All&subsubregion=All
 
@@ -18,11 +20,6 @@ https://www.granfondoworldtour.com/races/
 
 ## 2021 Events 
 
-### March 
-
-* Burgess Hill - 28th March (Classics prep)
-https://www.facebook.com/events/road-ride-events/the-2021-burgess-hill-springtime-classic-cyclosportive/507914100089070/
-
 ### April
 
 - [ ] Mallorca 312 - 24th April 
@@ -35,6 +32,9 @@ https://www.etapecaledonia.co.uk/enter-now?utm_source=British%20Cycling&utm_medi
 ### June
 * Stelvio - 6th June 
 https://www.granfondostelviosantini.com/?lang=en
+
+* London-Brighton-London - 19th June 
+https://sportivebreaks.com/uk-sportives/the-seaside-ride/
 
 ### July
 - [ ] Etape du Tour - 4th July
