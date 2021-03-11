@@ -73,6 +73,9 @@ https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/
 
 ## 2022
 
+### March
+- [ ] Ghent Wevelgem 26th March
+
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
 https://www.oetztaler-radmarathon.com/home.html
