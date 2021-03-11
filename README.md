@@ -22,8 +22,6 @@ https://www.granfondoworldtour.com/races/
 
 ### April
 
-- [ ] Mallorca 312 - 24th April 
-
 ### May
 
 * Etape Caledonaia Scotland - 16th May 
@@ -69,6 +67,9 @@ https://www.flanders2021.com/en
 
 * Cambridgeshire - 26th Sept
 https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling
+
+### Oct 
+- [ ] Mallorca 312 - 25th October
 
 ## 2022
 
