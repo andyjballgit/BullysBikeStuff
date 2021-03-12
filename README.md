@@ -38,6 +38,10 @@ https://vatternrundan.se/vatternrundan/en/
 https://sportivebreaks.com/uk-sportives/the-seaside-ride/
 
 ### July
+
+* Cyclone Sportive / Festival - Newcastle - 3rd July 
+https://cyclonecycling.com/
+
 - [ ] Etape du Tour - 4th July
 
 - [ ] Tour of Mendips - 11th July
@@ -56,13 +60,13 @@ https://www.gentwevelgemcyclo.be/en/
 * Alpenbrevet (Andermatt, Swiss) 4th Sept
 https://www.alpenbrevet.ch/en/for-participants/
 
-* Strade Bianchi Sportive (Pisa) - 12th Sept 
+* Strade Bianchi Sportive (Sienna) - 12th Sept 
 http://gfstradebianche.it/en/
 
 * Flanders Sportive - 18th September
 https://www.werideflanders.com/en/
 
-* World Champs, Leuven Belgium 19th-26th Sept
+* World Champs, Bruges / Leuven Belgium 19th-26th Sept
 https://www.flanders2021.com/en
 
 * Cambridgeshire - 26th Sept
