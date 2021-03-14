@@ -39,7 +39,7 @@ https://sportivebreaks.com/uk-sportives/the-seaside-ride/
 
 ### July
 
-* Cyclone Sportive / Festival - Newcastle - 3rd July 
+* Cyclone Sportive / Festival - Newcastle - 3rd July (Plan B)
 https://cyclonecycling.com/
 
 - [ ] Etape du Tour - 4th July
@@ -60,7 +60,7 @@ https://www.gentwevelgemcyclo.be/en/
 * Alpenbrevet (Andermatt, Swiss) 4th Sept
 https://www.alpenbrevet.ch/en/for-participants/
 
-* Strade Bianchi Sportive (Sienna) - 12th Sept 
+- [ ]Strade Bianchi Sportive (Siena) - 12th Sept 
 http://gfstradebianche.it/en/
 
 * Flanders Sportive - 18th September
