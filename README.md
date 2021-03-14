@@ -60,7 +60,7 @@ https://www.gentwevelgemcyclo.be/en/
 * Alpenbrevet (Andermatt, Swiss) 4th Sept
 https://www.alpenbrevet.ch/en/for-participants/
 
-- [ ]Strade Bianchi Sportive (Siena) - 12th Sept 
+- [ ] Strade Bianchi Sportive (Siena) - 12th Sept 
 http://gfstradebianche.it/en/
 
 * Flanders Sportive - 18th September
