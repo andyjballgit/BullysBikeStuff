@@ -65,6 +65,10 @@ http://gfstradebianche.it/en/
 
 * Flanders Sportive - 18th September
 https://www.werideflanders.com/en/
+Challenge
+https://www.cyclinginflanders.cc/flandrien-challenge
+
+
 
 * World Champs, Bruges / Leuven Belgium 19th-26th Sept
 https://www.flanders2021.com/en
