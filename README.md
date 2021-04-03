@@ -20,13 +20,6 @@ https://www.granfondoworldtour.com/races/
 
 ## 2021 Long List 
 
-### April
-
-### May
-
-* Etape Caledonaia Scotland - 16th May 
-https://www.etapecaledonia.co.uk/enter-now?utm_source=British%20Cycling&utm_medium=Solus&utm_campaign=British_Cycling&utm_content=Solus&dm_i=480K,YKPR,3K5LWA,4B61Q,1
-
 ### June
 * Stelvio - 6th June 
 https://www.granfondostelviosantini.com/?lang=en
@@ -68,7 +61,8 @@ https://www.werideflanders.com/en/
 Challenge
 https://www.cyclinginflanders.cc/flandrien-challenge
 
-
+* Etape Calendonia - Scotland - 18th September
+https://www.etapecaledonia.co.uk/enter-now
 
 * World Champs, Bruges / Leuven Belgium 19th-26th Sept
 https://www.flanders2021.com/en
