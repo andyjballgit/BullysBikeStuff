@@ -43,6 +43,9 @@ https://cyclonecycling.com/
 https://www.therift.bike/
 
 ### Aug 
+* Pidcock Sportive Yorkshire - 1st Aug 
+https://ridethestruggle.com/products/tom-pidcock-gran-fondo
+
 * Verbier Swiss - 7th Aug 
 https://tourdesstations.ch/en/
 
