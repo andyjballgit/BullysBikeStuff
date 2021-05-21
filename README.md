@@ -1,6 +1,6 @@
 # BullysBikeStuff
 
-Last Updated : 03/03/2021 
+Last Updated : 21/05/2021 
 
 ![]( AndySaColobra4.JPG)
 
@@ -36,8 +36,7 @@ https://cyclonecycling.com/
 
 - [ ] Tour of Mendips - 11th July
 
-* Iceland (Gravel) - 24th July 
-https://www.therift.bike/
+* ~~Iceland (Gravel) - 24th July - https://www.therift.bike/~~
 
 ### Aug 
 * Pidcock Sportive Yorkshire - 1st Aug 
