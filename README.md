@@ -21,9 +21,6 @@ https://www.granfondoworldtour.com/races/
 ## 2021 Long List 
 
 ### June
-* Stelvio - 6th June 
-https://www.granfondostelviosantini.com/?lang=en
-
 * Vatterunden - Sweeden - 315km max. 18th / 19th June 
 https://vatternrundan.se/vatternrundan/en/
 
@@ -35,7 +32,7 @@ https://sportivebreaks.com/uk-sportives/the-seaside-ride/
 * Cyclone Sportive / Festival - Newcastle - 3rd July (Plan B)
 https://cyclonecycling.com/
 
-- [ ] Etape du Tour - 4th July
+- ~~Etape du Tour - 4th July~~
 
 - [ ] Tour of Mendips - 11th July
 
@@ -58,6 +55,10 @@ https://www.alpenbrevet.ch/en/for-participants/
 
 - [ ] Strade Bianchi Sportive (Siena) - 12th Sept 
 http://gfstradebianche.it/en/
+
+* Stelvio - 12th Sep 
+https://www.granfondostelviosantini.com/?lang=en
+
 
 * Flanders Sportive - 18th September
 https://www.werideflanders.com/en/
