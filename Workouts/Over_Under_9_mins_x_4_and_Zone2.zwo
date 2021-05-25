@@ -1,0 +1,79 @@
+<workout_file>
+    <author>A.Ball (LB Velo)</author>
+    <name>Over Under 9 mins x 4 and Zone2</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="TR"/>
+        <tag name="Threshold"/>
+    </tags>
+    <workout>
+        <SteadyState Duration="180" Power="0.50449997" pace="0">
+            <textevent timeoffset="214.69292" message="Here we go"/>
+        </SteadyState>
+        <SteadyState Duration="180" Power="0.65449995" pace="0">
+            <textevent timeoffset="233.93405" message="Up a bit .."/>
+        </SteadyState>
+        <SteadyState Duration="180" Power="0.81561404" pace="0">
+            <textevent timeoffset="233" message="Dont let this worry you.."/>
+        </SteadyState>
+        <SteadyState Duration="180" Power="0.95449996" pace="0"/>
+        <SteadyState Duration="270" Power="0.50449997" pace="0">
+            <textevent timeoffset="6" message="Chill for a bit"/>
+        </SteadyState>
+        <Ramp Duration="60" PowerLow="0.45449999" PowerHigh="0.95449996" pace="0">
+            <textevent timeoffset="11" message="Here we go, uve got this"/>
+        </Ramp>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="390" Power="0.40449998" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0">
+            <textevent timeoffset="-2" message="Halfway thru big effort !"/>
+        </Ramp>
+        <SteadyState Duration="390" Power="0.40449998" pace="0">
+            <textevent timeoffset="198" message="Maybe grab some carbs"/>
+        </SteadyState>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="390" Power="0.40449998" pace="0">
+            <textevent timeoffset="352" message="One more .. Come On !!!!!!!"/>
+        </SteadyState>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="60" Power="0.95449996" pace="0"/>
+        <Ramp Duration="60" PowerLow="0.95449996" PowerHigh="1.1045001" pace="0"/>
+        <Ramp Duration="60" PowerLow="1.1045001" PowerHigh="0.95449996" pace="0"/>
+        <SteadyState Duration="180" Power="0.40449998" pace="0">
+            <textevent timeoffset="64" message="30 mins zone 2 next"/>
+        </SteadyState>
+        <SteadyState Duration="720" Power="0.65421051" pace="0"/>
+        <SteadyState Duration="780" Power="0.70333332" pace="0"/>
+        <SteadyState Duration="720" Power="0.65070176" pace="0"/>
+        <Cooldown Duration="600" PowerLow="0.65070176" PowerHigh="0.492807" pace="0"/>
+    </workout>
+</workout_file>
+                                                                              
