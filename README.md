@@ -109,9 +109,8 @@ Alpenbrevet Sportive - https://www.strava.com/activities/2647241674
 ### July
 Marmotte Sportive - https://www.strava.com/activities/2512539573
 
-### April 2019 
+### April 
 Mallorca 312 Sportive (225km) - https://www.strava.com/activities/2323282558
-
 
 Flanders Sportive - https://www.strava.com/activities/2269803147
 
