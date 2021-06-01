@@ -85,3 +85,35 @@ https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
 https://www.oetztaler-radmarathon.com/home.html
+
+# History
+
+## 2020 
+
+### September 
+Stelvio x 2 - https://www.strava.com/activities/3838548531
+
+## 2019
+
+### September
+Marco Pantani Sportive - https://www.strava.com/activities/2730675289
+
+Eddy Merckx Sportive - https://www.strava.com/activities/2690033104
+
+Bormio-Mortirolo-Gavia Landslide ride - https://www.strava.com/activities/2705091650
+
+
+### August 
+Alpenbrevet Sportive - https://www.strava.com/activities/2647241674
+
+### July
+Marmotte Sportive - https://www.strava.com/activities/2512539573
+
+### April 2019 
+Mallorca 312 Sportive (225km) - https://www.strava.com/activities/2323282558
+
+
+Flanders Sportive - https://www.strava.com/activities/2269803147
+
+### March 2019 
+Burgess Hill Sportive - https://www.strava.com/activities/2237208160
