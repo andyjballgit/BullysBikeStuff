@@ -113,6 +113,9 @@ and then 60 miler next day :-)
 https://www.strava.com/activities/2514618166
 
 
+### June 
+Ventoux Sportive - https://www.strava.com/activities/2454636750
+
 ### April 
 Mallorca 312 Sportive (225km) - https://www.strava.com/activities/2323282558
 
