@@ -1,6 +1,6 @@
 # BullysBikeStuff
 
-Last Updated : 21/05/2021 
+Last Updated : 09/08/2021 
 
 ![]( AndySaColobra4.JPG)
 
@@ -20,30 +20,7 @@ https://www.granfondoworldtour.com/races/
 
 ## 2021 Long List 
 
-### June
-* Vatterunden - Sweeden - 315km max. 18th / 19th June 
-https://vatternrundan.se/vatternrundan/en/
-
-* London-Brighton-London - 19th June 
-https://sportivebreaks.com/uk-sportives/the-seaside-ride/
-
-### July
-
-* Cyclone Sportive / Festival - Newcastle - 3rd July (Plan B)
-https://cyclonecycling.com/
-
-- ~~Etape du Tour - 4th July~~
-
-- [ ] Tour of Mendips - 11th July
-
-* ~~Iceland (Gravel) - 24th July - https://www.therift.bike/~~
-
 ### Aug 
-* Pidcock Sportive Yorkshire - 1st Aug 
-https://ridethestruggle.com/products/tom-pidcock-gran-fondo
-
-* Verbier Swiss - 7th Aug 
-https://tourdesstations.ch/en/
 
 * Ghent-Wevegelm - 28th August
 https://www.gentwevelgemcyclo.be/en/
@@ -57,7 +34,6 @@ http://gfstradebianche.it/en/
 
 * Stelvio - 12th Sep 
 https://www.granfondostelviosantini.com/?lang=en
-
 
 * Flanders Sportive - 18th September
 https://www.werideflanders.com/en/
@@ -80,7 +56,6 @@ https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/
 
 ### March
 - [ ] Ghent Wevelgem 26th March
-
 
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
