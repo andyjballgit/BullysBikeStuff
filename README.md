@@ -57,6 +57,11 @@ https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/
 ### March
 - [ ] Ghent Wevelgem 26th March
 
+### April
+* Mallorca 312 - 30th April
+https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
+
+
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
 https://www.oetztaler-radmarathon.com/home.html
