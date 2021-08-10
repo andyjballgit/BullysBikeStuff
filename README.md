@@ -55,6 +55,8 @@ https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/
 ## 2022
 
 ### March
+* Strade Bianchi sportive 5/6th March 
+
 - [ ] Ghent Wevelgem 26th March
 
 ### April
