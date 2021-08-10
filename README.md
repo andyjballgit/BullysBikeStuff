@@ -49,6 +49,7 @@ https://www.flanders2021.com/en
 * CANCELLED - ~~ Cambridgeshire - 26th Sept
 https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling ~~
 
+
 ### Oct 
 - [ ] Mallorca 312 - 25th October
 
