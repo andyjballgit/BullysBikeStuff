@@ -61,6 +61,10 @@ https://www.flanders2021.com/en
 - [ ] Ghent Wevelgem 26th March
 
 ### April
+
+* Paris-Roubaix Challenge - 9th April 
+https://www.parisroubaixchallenge.com/en/
+
 * Mallorca 312 - 30th April
 https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 
@@ -71,6 +75,9 @@ https://styrkeproven.no/en/races/lillehammer
 ### July
 * The Rift(Gravel) Iceland - July 23rd 
 https://www.therift.bike/
+
+* Andorra Sportive - sometime in July
+https://www.voltaalsports.com/en/routes/5-stars/
 
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
