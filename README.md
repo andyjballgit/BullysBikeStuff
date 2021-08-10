@@ -68,6 +68,9 @@ https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 * Lillehammer to Oslo - June 12th
 https://styrkeproven.no/en/races/lillehammer
 
+### July
+* The Rift(Gravel) Iceland - July 23rd 
+https://www.therift.bike/
 
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
