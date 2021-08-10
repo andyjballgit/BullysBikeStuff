@@ -61,6 +61,10 @@ https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/
 * Mallorca 312 - 30th April
 https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 
+### June 
+* Lillehammer to Oslo - June 12th
+https://styrkeproven.no/en/races/lillehammer
+
 
 ### Aug
 * Otzal Cycle Marathon Solden Austria - 29th Aug
