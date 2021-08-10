@@ -46,8 +46,8 @@ https://www.etapecaledonia.co.uk/enter-now
 * World Champs, Bruges / Leuven Belgium 19th-26th Sept
 https://www.flanders2021.com/en
 
-* Cambridgeshire - 26th Sept
-https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling
+* CANCELLED - ~~ Cambridgeshire - 26th Sept
+https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling ~~
 
 ### Oct 
 - [ ] Mallorca 312 - 25th October
