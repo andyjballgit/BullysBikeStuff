@@ -80,6 +80,9 @@ https://www.therift.bike/
 https://www.voltaalsports.com/en/routes/5-stars/
 
 ### Aug
+* Tour De Stations - Verbier - 6th Aug
+https://tourdesstations.ch/en/
+
 * Otzal Cycle Marathon Solden Austria - 29th Aug
 https://www.oetztaler-radmarathon.com/home.html
 
