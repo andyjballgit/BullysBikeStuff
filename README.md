@@ -58,6 +58,10 @@ https://www.flanders2021.com/en
 ### March
 * Strade Bianchi sportive, Siena, Italy - 5/6th March 
 
+* Devon Sportive - somewhere in Devon .. 12th March 
+https://www.letsdothis.com/gb/e/beyond-devon-sportive-189330
+
+
 - [ ] Ghent Wevelgem 26th March
 
 ### April
