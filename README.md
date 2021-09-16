@@ -26,10 +26,8 @@ https://www.granfondoworldtour.com/races/
 https://www.gentwevelgemcyclo.be/en/
 
 ### Sep
-* Alpenbrevet (Andermatt, Swiss) 4th Sept
-https://www.alpenbrevet.ch/en/for-participants/
 
-- [ ] Strade Bianchi Sportive (Siena) - 12th Sept 
+- [X] Strade Bianchi Sportive (Siena) - 12th Sept 
 http://gfstradebianche.it/en/
 
 * Stelvio - 12th Sep 
@@ -39,12 +37,6 @@ https://www.granfondostelviosantini.com/?lang=en
 https://www.werideflanders.com/en/
 Challenge
 https://www.cyclinginflanders.cc/flandrien-challenge
-
-* Etape Calendonia - Scotland - 18th September
-https://www.etapecaledonia.co.uk/enter-now
-
-* World Champs, Bruges / Leuven Belgium 19th-26th Sept
-https://www.flanders2021.com/en
 
 * CANCELLED - 
 ~~Cambridgeshire - 26th Sept https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling~~
@@ -60,7 +52,6 @@ https://www.flanders2021.com/en
 
 * Devon Sportive - somewhere in Devon .. 12th March 
 https://www.letsdothis.com/gb/e/beyond-devon-sportive-189330
-
 
 - [ ] Ghent Wevelgem 26th March
 
@@ -93,6 +84,13 @@ https://www.oetztaler-radmarathon.com/home.html
 # History
 
 ## 2021
+
+### September 
+Strade Bianche Gran Fondo - https://www.strava.com/activities/5948044907
+
+### August 
+Conningsbury Sportive (Lincolnshire) - https://www.strava.com/activities/5796265493
+
 ### July 
 Mendips Sportive - https://www.strava.com/activities/5610183402
 
