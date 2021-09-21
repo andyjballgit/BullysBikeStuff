@@ -4,43 +4,30 @@ Last Updated : 09/08/2021
 
 ![]( AndySaColobra4.JPG)
 
-## General Links 
+## Spoitive Portals 
 Euro Sportives 
 http://www.granfondoguide.com/Events/SportiveCalendar?region=Europe&country=All&subregion=All&subsubregion=All
 
 Mainly UK
 https://www.sportive.com/
 
-Gravel Series
-https://www.ukcyclingevents.co.uk/events/
-
-
 Gran Fondo World Tour
 https://www.granfondoworldtour.com/races/
 
+Gravel Series
+https://www.ukcyclingevents.co.uk/events/
+
+## Medical Cert Providers (required for France / Italy)
+GBP 49.00 2/9/2021
+https://www.doctap.co.uk/services/doctors-letter/
+
+
 ## 2021 Long List 
-
-### Aug 
-
-* Ghent-Wevegelm - 28th August
-https://www.gentwevelgemcyclo.be/en/
 
 ### Sep
 
 - [X] Strade Bianchi Sportive (Siena) - 12th Sept 
 http://gfstradebianche.it/en/
-
-* Stelvio - 12th Sep 
-https://www.granfondostelviosantini.com/?lang=en
-
-* Flanders Sportive - 18th September
-https://www.werideflanders.com/en/
-Challenge
-https://www.cyclinginflanders.cc/flandrien-challenge
-
-* CANCELLED - 
-~~Cambridgeshire - 26th Sept https://www.sportive.com/events/tour-of-cambridgeshire-sportive/2021-06-06/5549/cycling~~
-
 
 ### Oct 
 - [ ] Mallorca 312 - 25th October
@@ -48,12 +35,14 @@ https://www.cyclinginflanders.cc/flandrien-challenge
 ## 2022
 
 ### March
-* Strade Bianchi sportive, Siena, Italy - 5/6th March 
+* Strade Bianche sportive, Siena, Italy - 5/6th March 
+https://gfstradebianche.it/en/route/
 
 * Devon Sportive - somewhere in Devon .. 12th March 
 https://www.letsdothis.com/gb/e/beyond-devon-sportive-189330
 
 - [ ] Ghent Wevelgem 26th March
+https://www.gentwevelgemcyclo.be/en/
 
 ### April
 
