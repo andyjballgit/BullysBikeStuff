@@ -21,6 +21,9 @@ https://www.ukcyclingevents.co.uk/events/
 GBP 49.00 2/9/2021
 https://www.doctap.co.uk/services/doctors-letter/
 
+Sample form:
+https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-Certificate-STRADE-BIANCHE-ENG.pdf
+
 
 ## 2021 Long List 
 
