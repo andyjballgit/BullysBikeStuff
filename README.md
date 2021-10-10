@@ -73,6 +73,10 @@ https://tourdesstations.ch/en/
 * Otzal Cycle Marathon Solden Austria - 29th Aug
 https://www.oetztaler-radmarathon.com/home.html
 
+### Sep
+* Gravel Epic Switzerland - Late Sept
+https://www.gravelepic.com/epic-switzerland
+
 # History
 
 ## 2021
