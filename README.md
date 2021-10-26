@@ -27,15 +27,7 @@ https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-
 
 ## 2021 Long List 
 
-### Sep
-
-- [X] Strade Bianchi Sportive (Siena) - 12th Sept 
-http://gfstradebianche.it/en/
-
-### Oct 
-- [ ] Mallorca 312 - 25th October
-
-## 2022
+## 2022 Long List
 
 ### March
 * Strade Bianche sportive, Siena, Italy - 5/6th March 
@@ -70,16 +62,26 @@ https://www.voltaalsports.com/en/routes/5-stars/
 * Tour De Stations - Verbier - 6th Aug
 https://tourdesstations.ch/en/
 
+* Milestone Eifel 205 (Prum, Germany) - August 20th
+https://milestoneseries.cc/event/eifel-205
+
 * Otzal Cycle Marathon Solden Austria - 29th Aug
 https://www.oetztaler-radmarathon.com/home.html
 
 ### Sep
+* Milestone Bastad (Sweeden) - 11th September
+https://milestoneseries.cc/event/baastad-198
+
+
 * Gravel Epic Switzerland - Late Sept
 https://www.gravelepic.com/epic-switzerland
 
 # History
 
 ## 2021
+
+### October 
+Mallorca 312 (167km edition) - https://www.strava.com/activities/6159536073
 
 ### September 
 Strade Bianche Gran Fondo - https://www.strava.com/activities/5948044907
