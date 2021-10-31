@@ -41,13 +41,16 @@ https://www.gentwevelgemcyclo.be/en/
 
 ### April
 
-* Paris-Roubaix Challenge - 9th April 
+* Paris-Roubaix Challenge - 16th April 
 https://www.parisroubaixchallenge.com/en/
 
 * Mallorca 312 - 30th April
 https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 
 ### June 
+* Grand Fondo - June 5th (to be confirmed)
+https://www.granfondostelviosantini.com/?lang=en
+
 * Lillehammer to Oslo - June 12th
 https://styrkeproven.no/en/races/lillehammer
 
@@ -68,8 +71,12 @@ https://milestoneseries.cc/event/eifel-205
 * Otzal Cycle Marathon Solden Austria - 29th Aug
 https://www.oetztaler-radmarathon.com/home.html
 
-### Sep
-* Milestone Bastad (Sweeden) - 11th September
+### 
+* Alpenbrevet - Andermat, Swiss - 3rd September (Provisional)
+https://www.alpenbrevet.ch/en/
+
+
+* Milestone Bastad (Sweden) - 11th September
 https://milestoneseries.cc/event/baastad-198
 
 
