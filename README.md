@@ -24,9 +24,6 @@ https://www.doctap.co.uk/services/doctors-letter/
 Sample form:
 https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-Certificate-STRADE-BIANCHE-ENG.pdf
 
-
-## 2021 Long List 
-
 ## 2022 Long List
 
 ### March
@@ -46,6 +43,10 @@ https://www.parisroubaixchallenge.com/en/
 
 * Mallorca 312 - 30th April
 https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
+
+## May 
+Ride London - May 29th - Essex 
+https://www.ridelondon.co.uk/
 
 ### June 
 * Grand Fondo - June 5th (to be confirmed)
@@ -74,7 +75,6 @@ https://www.oetztaler-radmarathon.com/home.html
 ### 
 * Alpenbrevet - Andermat, Swiss - 3rd September (Provisional)
 https://www.alpenbrevet.ch/en/
-
 
 * Milestone Bastad (Sweden) - 11th September
 https://milestoneseries.cc/event/baastad-198
