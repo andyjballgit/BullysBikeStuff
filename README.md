@@ -4,7 +4,7 @@ Last Updated : 09/08/2021
 
 ![]( AndySaColobra4.JPG)
 
-## Spoitive Portals 
+## Sportive Portals 
 Euro Sportives 
 http://www.granfondoguide.com/Events/SportiveCalendar?region=Europe&country=All&subregion=All&subsubregion=All
 
@@ -26,6 +26,10 @@ https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-
 
 ## 2022 Long List
 
+### February
+* Gran Canaria Fondo - 11th/12th Feb
+https://www.epicgrancanaria.com/english.php
+
 ### March
 * Strade Bianche sportive, Siena, Italy - 5/6th March 
 https://gfstradebianche.it/en/route/
@@ -45,7 +49,7 @@ https://www.parisroubaixchallenge.com/en/
 https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 
 ## May 
-Ride London - May 29th - Essex 
+* Ride London - May 29th - Essex 
 https://www.ridelondon.co.uk/
 
 ### June 
