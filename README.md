@@ -1,6 +1,6 @@
 # BullysBikeStuff
 
-Last Updated : 09/08/2021 
+Last Updated : 18/11/2021 
 
 ![]( AndySaColobra4.JPG)
 
@@ -53,11 +53,14 @@ https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 https://www.ridelondon.co.uk/
 
 ### June 
-* Grand Fondo - June 5th (to be confirmed)
+* Grand Fondo Stelvio - June 5th (to be confirmed)
 https://www.granfondostelviosantini.com/?lang=en
 
 * Lillehammer to Oslo - June 12th
 https://styrkeproven.no/en/races/lillehammer
+
+* Dartmoor Classic , Newton Abbott, Devon UK - 19th June 2021
+https://www.dartmoorclassic.co.uk/index.php
 
 ### July
 * The Rift(Gravel) Iceland - July 23rd 
@@ -67,7 +70,7 @@ https://www.therift.bike/
 https://www.voltaalsports.com/en/routes/5-stars/
 
 ### Aug
-* Tour De Stations - Verbier - 6th Aug
+- [ ] Tour De Stations - Verbier - 6th Aug
 https://tourdesstations.ch/en/
 
 * Milestone Eifel 205 (Prum, Germany) - August 20th
