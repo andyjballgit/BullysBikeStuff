@@ -27,7 +27,7 @@ https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-
 ## 2022 Long List
 
 ### February
-* Gran Canaria Fondo - 11th/12th Feb
+* **(NEW!)** Gran Canaria Fondo - 11th/12th Feb
 https://www.epicgrancanaria.com/english.php
 
 ### March
@@ -53,13 +53,13 @@ https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 https://www.ridelondon.co.uk/
 
 ### June 
-* Grand Fondo Stelvio - June 5th (to be confirmed)
+* Grand Fondo Stelvio - June 12th
 https://www.granfondostelviosantini.com/?lang=en
 
 * Lillehammer to Oslo - June 12th
 https://styrkeproven.no/en/races/lillehammer
 
-* Dartmoor Classic , Newton Abbott, Devon UK - 19th June 2021
+* **(NEW!)** Dartmoor Classic , Newton Abbott, Devon UK - 19th June 2021
 https://www.dartmoorclassic.co.uk/index.php
 
 ### July
