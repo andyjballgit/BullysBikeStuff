@@ -45,7 +45,7 @@ https://www.gentwevelgemcyclo.be/en/
 * Paris-Roubaix Challenge - 16th April 
 https://www.parisroubaixchallenge.com/en/
 
-* Mallorca 312 - 30th April
+* Mallorca 312 - 30th April (Registration opens 10am GMT 30th Nov 2021)
 https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
 
 ## May 
