@@ -24,73 +24,42 @@ https://www.doctap.co.uk/services/doctors-letter/
 Sample form:
 https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-Certificate-STRADE-BIANCHE-ENG.pdf
 
-## 2022 Long List
-
-### February
-* **(NEW!)** Gran Canaria Fondo - 11th/12th Feb
-https://www.epicgrancanaria.com/english.php
-
-### March
-* Strade Bianche sportive, Siena, Italy - 5/6th March 
-https://gfstradebianche.it/en/route/
-
-* Devon Sportive - somewhere in Devon .. 12th March 
-https://www.letsdothis.com/gb/e/beyond-devon-sportive-189330
-
-- [ ] Ghent Wevelgem 26th March
-https://www.gentwevelgemcyclo.be/en/
-
-### April
-
-* Paris-Roubaix Challenge - 16th April 
-https://www.parisroubaixchallenge.com/en/
-
-* Mallorca 312 - 30th April (Registration opens 10am GMT 30th Nov 2021)
-https://milestoneseries.cc/post/ahora-si-vuelve-mallorca-312
-
-## May 
-* Ride London - May 29th - Essex 
-https://www.ridelondon.co.uk/
-
-### June 
-* Grand Fondo Stelvio - June 12th
-https://www.granfondostelviosantini.com/?lang=en
-
-* Lillehammer to Oslo - June 12th
-https://styrkeproven.no/en/races/lillehammer
-
-* **(NEW!)** Dartmoor Classic , Newton Abbott, Devon UK - 19th June 2021
-https://www.dartmoorclassic.co.uk/index.php
-
-### July
-* The Rift(Gravel) Iceland - July 23rd 
-https://www.therift.bike/
-
-* Andorra Sportive - sometime in July
-https://www.voltaalsports.com/en/routes/5-stars/
-
-### Aug
-- [ ] Tour De Stations - Verbier - 6th Aug
-https://tourdesstations.ch/en/
-
-* Milestone Eifel 205 (Prum, Germany) - August 20th
-https://milestoneseries.cc/event/eifel-205
-
-* Otzal Cycle Marathon Solden Austria - 29th Aug
-https://www.oetztaler-radmarathon.com/home.html
-
-### 
-* Alpenbrevet - Andermat, Swiss - 3rd September (Provisional)
-https://www.alpenbrevet.ch/en/
-
-* Milestone Bastad (Sweden) - 11th September
-https://milestoneseries.cc/event/baastad-198
-
-
-* Gravel Epic Switzerland - Late Sept
-https://www.gravelepic.com/epic-switzerland
+## 2022/3 Long List
 
 # History
+
+## 2022 
+
+### August 2022
+
+* Tour Des Stations Gran Fondo
+https://www.strava.com/activities/7593375094
+
+### June 2022
+* Tour of Cambridgeshire Gran Fondo
+https://www.strava.com/activities/7296912349
+
+### April 2022
+* Mallorca 312 
+https://www.strava.com/activities/7066643186
+
+### March 2022
+* E3 Cyclo - 27/03/2022   
+https://www.strava.com/activities/6891150345
+
+* Ghent Wevelgem Cyclo - 26/03/2022
+https://www.strava.com/activities/6886864735
+
+* Paris Nice Sportive - 12/03/2022
+https://www.strava.com/activities/6811829587
+
+* Verlum CC Reliability Ride - 06/03/2022
+https://www.strava.com/activities/6782751775
+
+### Feb 2022 
+* OomLoop Sportive - 27/02/2022
+https://www.strava.com/activities/6746053393
+
 
 ## 2021
 
