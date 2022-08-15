@@ -26,6 +26,18 @@ https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-
 
 ## 2022/3 Long List
 
+### September 2022
+* Essex Gravel X - Brentwood - 17th September 2022 
+https://gloriousgravel.com/product/gravel-sportives/essex-gravel-x/
+
+### April 2023 
+* Amstel Gold Sportive - Valkenburg, Netherlands - 15th April 2023
+https://www.amstel.nl/amstelgoldrace/toerversie
+
+### August 2023 
+* Tour De Stations - Verbier, Swiss - 5th August 2023
+https://tourdesstations.ch/en/
+
 # History
 
 ## 2022 
