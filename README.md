@@ -42,7 +42,7 @@ https://lblchallenge.be/en/
 # History
 
 ## 2023
-Nout :-(\
+Nout :-(
 
 ## 2022 
 
