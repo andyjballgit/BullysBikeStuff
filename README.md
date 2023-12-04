@@ -1,6 +1,6 @@
 # BullysBikeStuff
 
-Last Updated : 14/08/2022 
+Last Updated : 04/12/2023 
 
 ![]( AndySaColobra4.JPG)
 
@@ -12,7 +12,7 @@ Mainly UK
 https://www.sportive.com/
 
 Gran Fondo World Tour
-https://www.granfondoworldtour.com/races/
+https://www.granfondoworldtour.com/
 
 Gravel Series
 https://www.ukcyclingevents.co.uk/events/
@@ -24,21 +24,25 @@ https://www.doctap.co.uk/services/doctors-letter/
 Sample form:
 https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-Certificate-STRADE-BIANCHE-ENG.pdf
 
-## 2022/3 Long List
+## 2024 Long List
 
-### September 2022
-* Essex Gravel X - Brentwood - 17th September 2022 
-https://gloriousgravel.com/product/gravel-sportives/essex-gravel-x/
+### Febuary 2024
+Verlum Reliability Ride - 18/2/2024
+https://www.verulamcc.org.uk/club-runs-a-activities/local-events/chiltern-classics
 
-### April 2023 
-* Amstel Gold Sportive - Valkenburg, Netherlands - 15th April 2023
-https://www.amstel.nl/amstelgoldrace/toerversie
+### March 2024 
+Berkhamsted Reliability Ride - 17/03/2024
+https://www.britishcycling.org.uk/events/details/294740/Berkhamsted-Spring-Classic-Reliability-Ride
 
-### August 2023 
-* Tour De Stations - Verbier, Swiss - 5th August 2023
-https://tourdesstations.ch/en/
+### April 2024
+Liege Bastogne Liege Cyclo - 20/04/2024
+https://lblchallenge.be/en/
+
 
 # History
+
+## 2023
+Nout :-(
 
 ## 2022 
 
