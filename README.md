@@ -33,6 +33,9 @@ https://www.cyclinginflanders.cc/flandrien-challenge
 * Amstel Gold Sportive - April 19th 
 https://www.amstel.nl/amstelgoldrace/toerversie
 
+* Liege Bastogne Liege - April 26
+https://lblchallenge.be/en/register/
+
 ### May 
 * Giro D'Uterecht - May 11 
 https://www.girodutrecht.nl/
