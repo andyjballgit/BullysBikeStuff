@@ -24,22 +24,30 @@ https://www.doctap.co.uk/services/doctors-letter/
 Sample form:
 https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-Certificate-STRADE-BIANCHE-ENG.pdf
 
-## 2024 Long List
+## 2025 Long List
 
-### Febuary 2024
-Verlum Reliability Ride - 18/2/2024\
-https://www.verulamcc.org.uk/club-runs-a-activities/local-events/chiltern-classics
+### April 
+* Flandrien Challenge 
+https://www.cyclinginflanders.cc/flandrien-challenge
 
-### March 2024 
-Berkhamsted Reliability Ride - 17/03/2024\
-https://www.britishcycling.org.uk/events/details/294740/Berkhamsted-Spring-Classic-Reliability-Ride
+* Amstel Gold Sportive - April 19th 
+https://www.amstel.nl/amstelgoldrace/toerversie
 
-### April 2024
-Liege Bastogne Liege Cyclo - 20/04/2024\
-https://lblchallenge.be/en/
-
+### May 
+* Giro D'Uterecht - May 11 
+https://www.girodutrecht.nl/
 
 # History
+## 2024
+### August
+
+### September 
+* Bodensee Radmarathon
+https://www.strava.com/activities/12349028157
+
+### August
+* Tour Des Stations Short
+https://www.strava.com/activities/12349028157
 
 ## 2023
 Nout :disappointed:
