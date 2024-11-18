@@ -30,8 +30,8 @@ https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-
 * Flandrien Challenge 
 https://www.cyclinginflanders.cc/flandrien-challenge
 
-* Amstel Gold Sportive - April 19th 
-- [ ] https://www.amstel.nl/amstelgoldrace/toerversie
+- [ ]  Amstel Gold Sportive - April 19th 
+    https://www.amstel.nl/amstelgoldrace/toerversie
 
 * Liege Bastogne Liege - April 26
 https://lblchallenge.be/en/register/
