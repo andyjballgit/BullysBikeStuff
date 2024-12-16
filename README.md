@@ -40,7 +40,11 @@ https://lblchallenge.be/en/register/
 * Giro D'Uterecht - May 11 
 https://www.girodutrecht.nl/
 
-# History
+### July 
+* Lincoln-Tugby Challenge - July 13th
+https://www.itpevents.co.uk/giant-lincoln-tugby-challenge
+
+
 ## 2024
 ### August
 
