@@ -26,6 +26,11 @@ https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-
 
 ## 2025 Long List
 
+### February 
+
+* Verulum CC Reliability ride - 23rd Feb
+https://verulamcc.org.uk/club-runs-a-activities/local-events/verulam-reliability-ride
+
 ### April 
 - [ ]  Flandrien Challenge 
         https://www.cyclinginflanders.cc/flandrien-challenge
