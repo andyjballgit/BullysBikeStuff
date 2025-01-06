@@ -1,6 +1,5 @@
 # BullysBikeStuff
-
-Last Updated : 17/12/2024 
+Last Updated : 6/01/2025 
 
 ![]( AndySaColobra4.JPG)
 
@@ -17,17 +16,8 @@ https://www.granfondoworldtour.com/
 Gravel Series
 https://www.ukcyclingevents.co.uk/events/
 
-## Medical Cert Providers (required for France / Italy)
-GBP 49.00 2/9/2021
-https://www.doctap.co.uk/services/doctors-letter/
-
-Sample form:
-https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-Certificate-STRADE-BIANCHE-ENG.pdf
-
 ## 2025 Long List
-
 ### February 
-
 * Verulum CC Reliability ride - 23rd Feb
 https://verulamcc.org.uk/club-runs-a-activities/local-events/verulam-reliability-ride
 
@@ -46,13 +36,18 @@ https://lblchallenge.be/en/register/
 https://www.girodutrecht.nl/
 
 ### July 
-* Lincoln-Tugby Challenge - July 13th
+- [ ] Lincoln-Tugby Challenge - July 13th
 https://www.itpevents.co.uk/giant-lincoln-tugby-challenge
 
 
-## 2024
-### August
+## Medical Cert Providers (required for France / Italy)
+GBP 49.00 2/9/2021
+https://www.doctap.co.uk/services/doctors-letter/
 
+Sample form:
+https://images.sportstoursinternational.co.uk/wp-content/uploads/2018/08/Health-Certificate-STRADE-BIANCHE-ENG.pdf
+
+## 2024
 ### September 
 * Bodensee Radmarathon
 https://www.strava.com/activities/12349028157
