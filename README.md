@@ -17,6 +17,11 @@ Gravel Series
 https://www.ukcyclingevents.co.uk/events/
 
 ## 2025 Long List
+
+### Misc 
+Herts Reliability Ride Series \
+https://verulamcc.org.uk/club-runs-a-activities/local-events/spring-classics
+
 ### February 
 * Verulum CC Reliability ride - 23rd Feb \
 https://verulamcc.org.uk/club-runs-a-activities/local-events/verulam-reliability-ride
