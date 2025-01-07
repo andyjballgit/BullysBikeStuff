@@ -18,7 +18,7 @@ https://www.ukcyclingevents.co.uk/events/
 
 ## 2025 Long List
 ### February 
-* Verulum CC Reliability ride - 23rd Feb
+* Verulum CC Reliability ride - 23rd Feb \
 https://verulamcc.org.uk/club-runs-a-activities/local-events/verulam-reliability-ride
 
 ### April 
