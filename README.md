@@ -40,6 +40,10 @@ https://lblchallenge.be/en/register/
 * Giro D'Uterecht - May 11 
 https://www.girodutrecht.nl/
 
+## June 
+* UCI Gravel / Fondo Swiss - June 27/8/9th
+https://ucigravelsuisse.com/en/
+
 ### July 
 - [ ] Lincoln-Tugby Challenge - July 13th
 https://www.itpevents.co.uk/giant-lincoln-tugby-challenge
