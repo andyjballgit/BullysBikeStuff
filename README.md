@@ -26,6 +26,10 @@ https://verulamcc.org.uk/club-runs-a-activities/local-events/spring-classics
 * Verulum CC Reliability ride - 23rd Feb \
 https://verulamcc.org.uk/club-runs-a-activities/local-events/verulam-reliability-ride
 
+### March 
+* Turnhout, Belgium UCI Gravel Ride - 23rd March \
+https://turnhoutgravel.be/en/
+
 ### April 
 - [ ]  Flandrien Challenge 
         https://www.cyclinginflanders.cc/flandrien-challenge
