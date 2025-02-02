@@ -7,14 +7,15 @@ Last Updated : 6/01/2025
 Euro Sportives 
 http://www.granfondoguide.com/Events/SportiveCalendar?region=Europe&country=All&subregion=All&subsubregion=All
 
+Glorious Gravel Series 
+https://gloriousgravel.com/uk-rides/?region=&season=
+
 Mainly UK
 https://www.sportive.com/
 
-Gran Fondo World Tour
-https://www.granfondoworldtour.com/
+UCI Gravel Series
+https://ucigravelworldseries.com/en/calendar/
 
-Gravel Series
-https://www.ukcyclingevents.co.uk/events/
 
 ## 2025 Long List
 
