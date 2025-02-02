@@ -28,6 +28,9 @@ https://verulamcc.org.uk/club-runs-a-activities/local-events/spring-classics
 https://verulamcc.org.uk/club-runs-a-activities/local-events/verulam-reliability-ride
 
 ### March 
+* Cannock Chase Gravel , 8th March \
+https://gloriousgravel.com/product/gravel-sportives/cannock-chase-gravel-x
+
 * Turnhout, Belgium UCI Gravel Ride - 23rd March \
 https://turnhoutgravel.be/en/
 
